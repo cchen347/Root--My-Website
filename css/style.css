@@ -1,0 +1,34 @@
+h3{
+	color:red;
+}
+h1{font-family: 'Poppins', sans-serif;
+}
+#single-one {
+	color: orange;
+}
+#single-two {
+		color:green;
+}
+.multiple {
+	color:pink;
+}
+#banana {
+	/*position:fixed;*/
+
+	width:200vw;
+
+	height:100px;
+
+	background-color:rgba(0,0,0,0.5);
+
+	top:0;
+}
+#apple {
+	position:relative;
+
+	width:30vw;
+
+	height:40px;
+
+	left:30vw;
+}
